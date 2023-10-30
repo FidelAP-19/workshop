@@ -1,0 +1,15 @@
+
+body{
+    background-color: #6ac9de;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Agbalumo', cursive;
+    margin: 100px;
+    padding: 4%;
+    color: #fff;
+    border-style: dashed solid double;
+    
+    }
+h1{
+    text-decoration: underline;
+}
